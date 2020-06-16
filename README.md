@@ -6,6 +6,6 @@ https://github.com/Siromenko/Sample.git
 *　お好み焼きレシピ
 　　　[okonimi.txt](okonomi.txt)
 
-## ローカルリポジトリ
+## リモートリポジトリ
 * README.mdを作ってみる
 * マークダウンを覚える  
