@@ -4,8 +4,8 @@ https://github.com/Siromenko/Sample.git
 
 ## ローカルリポジトリ
 *お好み焼きレシピ
-　　　［okonimi.txt](okonomi.txt)
+　　　[okonimi.txt](okonomi.txt)
 
 ##リモートリポジトリ
-＊README.mdを作ってみる
-＊マークダウンを覚える  
+*README.mdを作ってみる
+*マークダウンを覚える  
